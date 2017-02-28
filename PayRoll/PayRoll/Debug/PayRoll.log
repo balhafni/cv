@@ -1,0 +1,6 @@
+﻿  Driver.cpp
+c:\users\bashar.alhafni\documents\visual studio 2015\projects\payroll\payroll\iterator.h(46): warning C4018: '>=': signed/unsigned mismatch
+c:\users\bashar.alhafni\documents\visual studio 2015\projects\payroll\payroll\driver.cpp(96): warning C4018: '<=': signed/unsigned mismatch
+c:\users\bashar.alhafni\documents\visual studio 2015\projects\payroll\payroll\driver.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\bashar.alhafni\documents\visual studio 2015\projects\payroll\payroll\driver.cpp(293): warning C4018: '<': signed/unsigned mismatch
+  PayRoll.vcxproj -> C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\PayRoll\Debug\PayRoll.exe

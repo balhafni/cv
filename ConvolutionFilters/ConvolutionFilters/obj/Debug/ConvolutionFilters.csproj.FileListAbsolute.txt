@@ -1,0 +1,9 @@
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\bin\Debug\ConvolutionFilters.exe.config
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\obj\Debug\ConvolutionFilters.csprojResolveAssemblyReference.cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\obj\Debug\ConvolutionFilters.Form1.resources
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\obj\Debug\ConvolutionFilters.Properties.Resources.resources
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\obj\Debug\ConvolutionFilters.csproj.GenerateResource.Cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\bin\Debug\ConvolutionFilters.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\bin\Debug\ConvolutionFilters.pdb
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\obj\Debug\ConvolutionFilters.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\ConvolutionFilters\ConvolutionFilters\obj\Debug\ConvolutionFilters.pdb

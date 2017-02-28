@@ -1,0 +1,8 @@
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\bin\Debug\ComplexTest.dll
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\bin\Debug\ComplexTest.pdb
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\bin\Debug\Operators Overloading.exe
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\bin\Debug\Operators Overloading.pdb
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\obj\Debug\ComplexTest.csprojResolveAssemblyReference.cache
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\obj\Debug\ComplexTest.dll
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Operators Overloading\ComplexTest\obj\Debug\ComplexTest.pdb

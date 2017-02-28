@@ -1,0 +1,9 @@
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\bin\Debug\FirstAssignment_Part2.exe.config
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\bin\Debug\FirstAssignment_Part2.exe
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\bin\Debug\FirstAssignment_Part2.pdb
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\obj\Debug\FirstAssignment_Part2.Form1.resources
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\obj\Debug\FirstAssignment_Part2.Properties.Resources.resources
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\obj\Debug\FirstAssignment_Part2.csproj.GenerateResource.Cache
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\obj\Debug\FirstAssignment_Part2.exe
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\obj\Debug\FirstAssignment_Part2.pdb
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignment_Part1\FirstAssignment_Part2\obj\Debug\FirstAssignment_Part2.csprojResolveAssemblyReference.cache

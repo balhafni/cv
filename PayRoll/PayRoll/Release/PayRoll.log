@@ -1,0 +1,6 @@
+﻿  Driver.cpp
+Driver.cpp(55): warning C4018: '<=': signed/unsigned mismatch
+Driver.cpp(97): warning C4018: '<': signed/unsigned mismatch
+Driver.cpp(106): warning C4018: '<': signed/unsigned mismatch
+Driver.cpp(115): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PayRoll\Release\PayRoll.exe'

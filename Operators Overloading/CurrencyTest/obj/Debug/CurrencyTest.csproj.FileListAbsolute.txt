@@ -1,0 +1,8 @@
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\bin\Debug\CurrencyTest.dll
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\bin\Debug\CurrencyTest.pdb
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\bin\Debug\Operators Overloading.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\bin\Debug\Operators Overloading.pdb
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\obj\Debug\CurrencyTest.csprojResolveAssemblyReference.cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\obj\Debug\CurrencyTest.dll
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\CurrencyTest\obj\Debug\CurrencyTest.pdb
