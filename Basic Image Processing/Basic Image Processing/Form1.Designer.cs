@@ -38,6 +38,7 @@
             this.convoluteBtn = new System.Windows.Forms.Button();
             this.interpolateBtn = new System.Windows.Forms.Button();
             this.histoEqua_btn = new System.Windows.Forms.Button();
+            this.transfrom_btn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.orgPicBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.modifiedPicBox)).BeginInit();
             this.SuspendLayout();
@@ -100,7 +101,7 @@
             // 
             // saveImg_btn
             // 
-            this.saveImg_btn.Location = new System.Drawing.Point(12, 388);
+            this.saveImg_btn.Location = new System.Drawing.Point(12, 435);
             this.saveImg_btn.Name = "saveImg_btn";
             this.saveImg_btn.Size = new System.Drawing.Size(129, 23);
             this.saveImg_btn.TabIndex = 8;
@@ -138,11 +139,22 @@
             this.histoEqua_btn.UseVisualStyleBackColor = true;
             this.histoEqua_btn.Click += new System.EventHandler(this.histoEqua_btn_Click);
             // 
+            // transfrom_btn
+            // 
+            this.transfrom_btn.Location = new System.Drawing.Point(12, 392);
+            this.transfrom_btn.Name = "transfrom_btn";
+            this.transfrom_btn.Size = new System.Drawing.Size(129, 23);
+            this.transfrom_btn.TabIndex = 14;
+            this.transfrom_btn.Text = "Image Transformation";
+            this.transfrom_btn.UseVisualStyleBackColor = true;
+            this.transfrom_btn.Click += new System.EventHandler(this.transfrom_btn_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(970, 599);
+            this.Controls.Add(this.transfrom_btn);
             this.Controls.Add(this.histoEqua_btn);
             this.Controls.Add(this.interpolateBtn);
             this.Controls.Add(this.convoluteBtn);
@@ -174,6 +186,7 @@
         private System.Windows.Forms.Button convoluteBtn;
         private System.Windows.Forms.Button interpolateBtn;
         private System.Windows.Forms.Button histoEqua_btn;
+        private System.Windows.Forms.Button transfrom_btn;
     }
 }
 

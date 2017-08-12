@@ -1,9 +1,11 @@
-
 from tkinter.ttk import Frame, Button,Label,Entry, Style
-from tkinter import BOTH,END, messagebox
+from tkinter import BOTH,END, messagebox, Menu, filedialog
 import sys
 from StudentIDDlg import StudentIDDlg
 from LoanCalculator import LoanCalculator
+from FeedBackDlg import FeedBackDlg
+import cv2
+
 
 
 class MyFrame(Frame):
@@ -15,7 +17,6 @@ class MyFrame(Frame):
      self.FBD = None #Feedback Dlg object
      self.initUI()
 
-     4
 
  def initUI(self):
      self.parent.title("GUI Controls Test")
@@ -106,8 +107,9 @@ class MyFrame(Frame):
      opts['initialdir'] = 'd:\\PythonRM'
      opts['filetypes'] = [('all files', '.*'), ('jpeg files', '.jpg')]
      fname = filedialog.askopenfilename(**options) # file in read mode
-     img = misc.imread(fname) # read the image file
-     toimage(img).show()
+     img = cv2.imread(fname) # read the image file
+     cv2.imshow('image',img)
+     #toimage(img).show()
 
  def mnuSaveFileClick(self):
      print("OK2")

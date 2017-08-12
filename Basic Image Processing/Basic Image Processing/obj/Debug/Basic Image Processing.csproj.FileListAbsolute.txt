@@ -12,3 +12,4 @@ C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Basic Image Proces
 C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Basic Image Processing\Basic Image Processing\bin\Debug\Mapack.dll
 C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Basic Image Processing\Basic Image Processing\bin\Debug\Mapack.xml
 C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Basic Image Processing\Basic Image Processing\obj\Debug\Basic_Image_Processing.HistogramEqualisationFrom.resources
+C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Basic Image Processing\Basic Image Processing\obj\Debug\Basic_Image_Processing.Transformation_Form.resources

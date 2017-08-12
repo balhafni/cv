@@ -47,6 +47,7 @@ namespace Basic_Image_Processing
             {
                 Bitmap bmp = new Bitmap(orgPicBox.Image);
                 modifiedPicBox.Image = processor.ConvertToGray(bmp);
+                MessageBox.Show(bmp.GetPixel(0, 0).R+"");
             }
             catch (Exception ex)
             {
@@ -128,6 +129,13 @@ namespace Basic_Image_Processing
         private void histoEqua_btn_Click(object sender, EventArgs e)
         {
             HistogramEqualisationFrom form = new HistogramEqualisationFrom();
+            form.Show();
+            form.setPicBox(mainImage);
+        }
+
+        private void transfrom_btn_Click(object sender, EventArgs e)
+        {
+            Transformation_Form form = new Transformation_Form();
             form.Show();
             form.setPicBox(mainImage);
         }
