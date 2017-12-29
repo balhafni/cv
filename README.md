@@ -1,3 +1,3 @@
 # Image-Processing
 
-Some image processing projects along with windows programming!
+Some cool image processing projects along with windows programming!
