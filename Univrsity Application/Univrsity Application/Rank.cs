@@ -1,8 +1,0 @@
-﻿public enum Rank
-{
-    ASSOCIATE_PROFESSOR,
-    ASSISTANT_PROFESSOR,
-    FULLTIME_PROFESSOR
-}
-
-

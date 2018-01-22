@@ -1,0 +1,9 @@
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\bin\Debug\Nelder_Mead.exe.config
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\bin\Debug\Nelder_Mead.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\bin\Debug\Nelder_Mead.pdb
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\obj\Debug\Nelder_Mead.csprojResolveAssemblyReference.cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\obj\Debug\Nelder_Mead.Form1.resources
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\obj\Debug\Nelder_Mead.Properties.Resources.resources
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\obj\Debug\Nelder_Mead.csproj.GenerateResource.Cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\obj\Debug\Nelder_Mead.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Nelder_Mead\Nelder_Mead\obj\Debug\Nelder_Mead.pdb

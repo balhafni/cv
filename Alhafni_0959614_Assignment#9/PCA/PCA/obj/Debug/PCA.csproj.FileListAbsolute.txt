@@ -1,0 +1,11 @@
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\bin\Debug\PCA.exe.config
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\obj\Debug\PCA.csprojResolveAssemblyReference.cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\obj\Debug\PCA.Form1.resources
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\obj\Debug\PCA.Properties.Resources.resources
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\obj\Debug\PCA.csproj.GenerateResource.Cache
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\bin\Debug\PCA.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\bin\Debug\PCA.pdb
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\obj\Debug\PCA.exe
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\obj\Debug\PCA.pdb
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\bin\Debug\Mapack.dll
+c:\users\bashar.alhafni\documents\visual studio 2015\Projects\PCA\PCA\bin\Debug\Mapack.xml

@@ -1,7 +1,0 @@
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\bin\Debug\FirstAssignmentPart1.exe
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\bin\Debug\FirstAssignmentPart1.exe.config
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\obj\Debug\FirstAssignmentPart1.Form1.resources
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\obj\Debug\FirstAssignmentPart1.Properties.Resources.resources
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\obj\Debug\FirstAssignmentPart1.csproj.GenerateResource.Cache
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\obj\Debug\FirstAssignmentPart1.exe
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\FirstAssignmentPart1\FirstAssignmentPart1\obj\Debug\FirstAssignmentPart1.pdb

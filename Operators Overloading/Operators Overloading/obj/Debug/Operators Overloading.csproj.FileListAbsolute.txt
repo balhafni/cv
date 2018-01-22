@@ -1,8 +1,0 @@
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\bin\Debug\Operators Overloading.exe.config
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\bin\Debug\Operators Overloading.exe
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\bin\Debug\Operators Overloading.pdb
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\obj\Debug\Operators Overloading.csprojResolveAssemblyReference.cache
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\obj\Debug\Operators_Overloading.Properties.Resources.resources
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\obj\Debug\Operators Overloading.csproj.GenerateResource.Cache
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\obj\Debug\Operators Overloading.exe
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Operators Overloading\Operators Overloading\obj\Debug\Operators Overloading.pdb

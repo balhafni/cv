@@ -1,9 +1,0 @@
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\Indexers\Indexers\bin\Debug\Indexers.exe.config
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\bin\Debug\Indexers.exe
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\bin\Debug\Indexers.pdb
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\obj\Debug\Indexers.Properties.Resources.resources
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\obj\Debug\Indexers.csproj.GenerateResource.Cache
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\obj\Debug\Indexers.exe
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\obj\Debug\Indexers.pdb
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\Indexers\obj\Debug\Indexers.Form1.resources

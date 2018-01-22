@@ -1,1 +1,0 @@
-c:\users\bashar.alhafni\documents\visual studio 2015\Projects\RealTimeCharts\RealTimeCharts\bin\Debug\RealTimeCharts.exe.config

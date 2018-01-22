@@ -1,8 +1,0 @@
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\bin\Debug\SearchTest.dll
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\bin\Debug\SearchTest.pdb
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\bin\Debug\Indexers.exe
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\bin\Debug\Indexers.pdb
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\obj\Debug\SearchTest.csprojResolveAssemblyReference.cache
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\obj\Debug\SearchTest.dll
-C:\Users\bashar.alhafni\Documents\Visual Studio 2015\Projects\Indexers\SearchTest\obj\Debug\SearchTest.pdb
